@@ -1,35 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="https://ethixmarine.com/">
-
-   <url>
-
-      <loc>https://ethixmarine.com/index.html</loc>
-
-   </url>
-
-   <url>
-
-      <loc>https://ethixmarine.com/nosservices.html</loc>
-
-   </url>
-
-   <url>
-
-      <loc>https://ethixmarine.com/realisations.html</loc>
-
-   </url>
-
-   <url>
-
-      <loc>https://ethixmarine.com/contact.html</loc>
-
-   </url>
-
-   <url>
-
-      <loc>https://ethixmarine.com/legal.html</loc>
-
-   </url>
-
-</urlset> 
+<url>
+<loc>https://ethixmarine.com/index.html</loc>
+</url>
+<url>
+<loc>https://ethixmarine.com/services.html</loc>
+</url>
+<url>
+<loc>https://ethixmarine.com/realisations.html</loc>
+</url>
+<url>
+<loc>https://ethixmarine.com/contact.html</loc>
+</url>
+<url>
+<loc>https://ethixmarine.com/legal.html</loc>
+</url>
+</urlset>
